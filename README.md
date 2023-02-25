@@ -68,6 +68,12 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 <img src="./rank.png" width="800">
 
+### The Six Founders Silicon Enchanters (The First Archmages Council)
+
+#### Arthil Al-Haythem "The Wise"
+Leader of the Archmages Council
+<img src="./founder1.png" width="800">
+
 ### Significant Silicon Enchanters in History
 | Rank in the Organization | Name | Detail |
 | :--------- | :--: | :----------- |
