@@ -70,13 +70,17 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 ### The Six Founders Silicon Enchanters (in 1273 AD, The First Archmages Council)
 
-#### Arthil Yaqub Al-Haythem "The Wise", Leader of the Archmages Council
+#### Artil Yaqub Ibn Al-Haythem "Artil the Wise", Leader of the Archmages Council
 
 <img src="./founder1.png" width="450">
 
 #### Seti Heliosid, Chaos Data Archmage
 
 <img src="./founder2.png" width="450">
+
+#### Baldwin of the Hurrians, Lord of Cloud Computing
+
+<img src="./founder3.png" width="450">
 
 ### Significant Silicon Enchanters in History
 | Rank in the Organization | Name | Detail |
