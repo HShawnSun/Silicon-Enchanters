@@ -78,9 +78,13 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 <img src="./founder2.png" width="450">
 
-#### Baldwin Cole, King of the Hurrians, Lord of Cloud Computing
+#### Baldwin Cole "the Hurrian", Lord of Cloud Computing
 
 <img src="./founder3.png" width="450">
+
+#### Euphemia Palaiologos, Machine Learning Mornarchess
+
+<img src="./founder4.png" width="450">
 
 ### Significant Silicon Enchanters in History
 | Rank in the Organization | Name | Detail |
