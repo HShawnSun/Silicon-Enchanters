@@ -61,9 +61,9 @@ Grand Master Of Silicon Sorcery | VI | 36 | Infinite Tape of Turing Machine |
 Warlock of Algorithms | V | 216 - 252 | Magic Architecture of  Von Neumann |
 High Sorcerer of Silicon | V | \ | banished nowadays |
 Sorcerer of Silicon | IV | 1292+ | Astrological ALU |
-Sorcerer Page of Silicon | III | 1292+ | Enchanted Nand Gate |
-Coder Practicus | II | 6000+ | Silicon Cone |
-Coder Theoricus | I | 10000+ | Silicon Wafer |
+Wizard of Silicon | III | 1292+ | Enchanted Nand Gate |
+Code Shaman Practicus | II | 6000+ | Silicon Cone |
+Coder Shaman Theoricus | I | 10000+ | Silicon Wafer |
 Neophyte | 0 | 60000+ | Raw Silicon |
 
 <img src="./rank.png" width="800">
@@ -78,7 +78,7 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 | Mage of Silicon | Grace Hopper | Hopper was an American computer scientist and naval officer who developed the first compiler, a program that translates human-readable code into machine-readable code. In our alternate history scenario, she could have been a mage of the Silicon Enchanters, using her expertise to develop new programming languages and techniques.
 | Warlock of Algorithms | John von Neumann | Von Neumann was a Hungarian-American mathematician and physicist who contributed to the development of game theory, quantum mechanics, and computer science. In our alternate history scenario, he could have been a sorcerer of the Silicon Enchanters, applying his interdisciplinary knowledge to the development of new computing technologies.
 | Mage of Silicon | Tim Berners-Lee | Berners-Lee is a British computer scientist who invented the World Wide Web, a system of interlinked hypertext documents that can be accessed over the Internet. In our alternate history scenario, he could have been an archmage of the Silicon Enchanters, developing new protocols and standards for the Web that would shape the future of computing.
-| Cyber-wizard Major | Adafruit Limor Fried | Fried is an American electrical engineer and founder of Adafruit Industries, a company that produces open-source hardware and software for makers and hackers. In our alternate history scenario, she could have been a high wizard of the Silicon Enchanters, using her expertise to develop new tools and technologies that would democratize access to computing.
+| Warlock of Algorithms | Adafruit Limor Fried | Fried is an American electrical engineer and founder of Adafruit Industries, a company that produces open-source hardware and software for makers and hackers. In our alternate history scenario, she could have been a high wizard of the Silicon Enchanters, using her expertise to develop new tools and technologies that would democratize access to computing.
 
 ### Historically Accurate Events 
 
