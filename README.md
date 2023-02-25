@@ -78,7 +78,7 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 <img src="./founder2.png" width="450">
 
-#### Baldwin of the Hurrians, Lord of Cloud Computing
+#### Baldwin Cole, King of the Hurrians, Lord of Cloud Computing
 
 <img src="./founder3.png" width="450">
 
