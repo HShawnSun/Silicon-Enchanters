@@ -56,12 +56,12 @@ It was made of silky silicon in the factory of Zarmina on [Gliese 581g](https://
 
 | Rank Name | Rank Class | Number of People | Symbol |
 | :--------- | :--: | :---: |:----------- |
-Magus Magnus | VII | 6 | The Symbol of Ultimate Computing |
+Magus Magnus (Archmage) | VII | 6 | The Symbol of Ultimate Computing |
 Grand Master Of Silicon Sorcery | VI | 36 | Infinite Tape of Turing Machine |
 Warlock of Algorithms | V | 216 - 252 | Magic Architecture of  Von Neumann |
- Mage of Silicon | V | \ | banished nowadays |
-Cyber-Wizard Major | IV | 1292+ | Astrological ALU |
-Cyber-Wizard Minor | III | 1292+ | Enchanted Nand Gate |
+High Sorcerer of Silicon | V | \ | banished nowadays |
+Sorcerer of Silicon | IV | 1292+ | Astrological ALU |
+Sorcerer Page of Silicon | III | 1292+ | Enchanted Nand Gate |
 Coder Practicus | II | 6000+ | Silicon Cone |
 Coder Theoricus | I | 10000+ | Silicon Wafer |
 Neophyte | 0 | 60000+ | Raw Silicon |
