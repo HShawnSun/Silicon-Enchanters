@@ -61,7 +61,7 @@ Grand Master Of Silicon Sorcery | VI | 36 | Infinite Tape of Turing Machine |
 Warlock of Algorithms | V | 216 - 252 | Magic Architecture of  Von Neumann |
 High Sorcerer of Silicon | V | \ | banished nowadays |
 Sorcerer of Silicon | IV | 1292+ | Astrological ALU |
-Wizard of Silicon | III | 1292+ | Enchanted Nand Gate |
+Witcher of Silicon | III | 1292+ | Enchanted Nand Gate |
 Code Shaman Practicus | II | 6000+ | Silicon Cone |
 Coder Shaman Theoricus | I | 10000+ | Silicon Wafer |
 Neophyte | 0 | 60000+ | Raw Silicon |
