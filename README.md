@@ -82,9 +82,17 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 <img src="./founder3.png" width="450">
 
-#### Euphemia Palaiologos, Machine Learning Monarchess
+#### Euphemia Palaiologos, Machine Learning Monarch
 
 <img src="./founder4.png" width="450">
+
+#### Sironka "the Translucent", Full Stack Grand Knight
+
+<img src="./founder5.png" width="450">
+
+#### Claudio d'Abano, Cybersecurity Paladin
+
+<img src="./founder6.png" width="450">
 
 ### Significant Silicon Enchanters in History
 | Rank in the Organization | Name | Detail |
