@@ -70,7 +70,7 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 ### The Six Founders Silicon Enchanters (in 1273 AD, The First Archmages Council)
 
-#### Artil Yaqub Ibn Al-Haythem "Artil the Wise", Leader of the Archmages Council
+#### Artil Yaqub Ibn Al-Haythem "the Wise", Leader of the Archmages Council
 
 <img src="./founder1.png" width="450">
 
@@ -78,11 +78,11 @@ Neophyte | 0 | 60000+ | Raw Silicon |
 
 <img src="./founder2.png" width="450">
 
-#### Baldwin Cole "the Hurrian", Lord of Cloud Computing
+#### Baldwin Cole, Ruler of the Hurrians, Lord of Cloud Computing
 
 <img src="./founder3.png" width="450">
 
-#### Euphemia Palaiologos, Machine Learning Mornarchess
+#### Euphemia Palaiologos, Machine Learning Monarchess
 
 <img src="./founder4.png" width="450">
 
